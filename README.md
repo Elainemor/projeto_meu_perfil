@@ -18,9 +18,9 @@ Neste momento estou estudando focando na área de Teste de comportamento com Jav
 
 
 Amo dançar 💃, ler 📚, cozinhar, sou organizada, meu sonho é conhecer outros países em especial o Canadá.✈️🌎
-Sou mãe do Bryann com muito orgulho.
+Sou mãe do menino Bryann com muito orgulho e amor.
 
-Onde me enconrar?🔍
+Onde me encontrar?🔍
 
 💻<a href="https://https://www.linkedin.com/in/elainesouzamoreira/"><img src="https://github.com/Elainemor/elainesouzamoreira/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/elainesouzamoreira)
 
