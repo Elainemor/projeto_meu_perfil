@@ -21,6 +21,6 @@ Amo cozinhar, sou organizada e tenho um perfil pragmatico, amo viajar meu sonho 
 
 Onde me enconrar?🔍
 
-<a href="https://https://www.linkedin.com/in/elainesouzamoreira/"><img src="https://github.com/Elainemor/elainesouzamoreira/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/elainesouzamoreira)
+💻<a href="https://https://www.linkedin.com/in/elainesouzamoreira/"><img src="https://github.com/Elainemor/elainesouzamoreira/linkedin.png" width="16"></img/D:\Meus_Projetos\projeto_meu_perfil></a> [LinkedIn](https://www.linkedin.com/in/elainesouzamoreira)
 
-![](https://komarev.com/ghpvc/?username=Elainemor&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=Elainemor&color=blue&style=flat)
