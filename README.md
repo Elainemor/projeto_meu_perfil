@@ -17,10 +17,11 @@ Sigo em um aprendizado contínuo para meu crescimento profissional.
 Neste momento estou estudando focando na área de Teste de comportamento com Java, Selenium, Cucumber.
 
 
-Amo cozinhar, sou organizada e tenho um perfil pragmatico, amo viajar meu sonho é conhecer outros países em especial o Canadá.✈️🌎
+Amo dançar 💃, ler 📚, cozinhar, sou organizada, meu sonho é conhecer outros países em especial o Canadá.✈️🌎
+Sou mãe do Bryann com muito orgulho.
 
 Onde me enconrar?🔍
 
-💻<a href="https://https://www.linkedin.com/in/elainesouzamoreira/"><img src="https://github.com/Elainemor/elainesouzamoreira/linkedin.png" width="16"></img/D:\Meus_Projetos\projeto_meu_perfil></a> [LinkedIn](https://www.linkedin.com/in/elainesouzamoreira)
+💻<a href="https://https://www.linkedin.com/in/elainesouzamoreira/"><img src="https://github.com/Elainemor/elainesouzamoreira/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/elainesouzamoreira)
 
 ![](https://komarev.com/ghpvc/?username=Elainemor&color=blue&style=flat)
